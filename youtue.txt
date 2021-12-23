@@ -1,6 +1,3 @@
-0.0.0.0   
-0.0.0.0   eligibility-panelresearch.googlevideo.com
-0.0.0.0   manifest.googlevideo.com
 0.0.0.0   r10.sn-25ge7ns7.googlevideo.com
 0.0.0.0   r10---sn-25ge7ns7.googlevideo.com
 0.0.0.0   r10---sn-25ge7nsd.googlevideo.com
